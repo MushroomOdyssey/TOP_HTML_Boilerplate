@@ -15,23 +15,23 @@ That’s how HTML works. You can stack and nest various elements within others a
 !DOCTYPE html
 Defines the version of HTML that the browser should render. For HTML5, the version is defined simply by using "html".
 
-html
+html<br>
 The html tag is the root element of the web page. All other elements are child elements of html.
 
-lang="en"
+lang="en"<br>
 The lang attribute inside of the html tag is used to declare the language of the webpage. It is used by search engines, web browsers, and accessibility tools and addons.
 
-head
+head<br>
 It's maybe a little more helpful to think of this as the "mind" rather than "head". The head element acts as a container for the webpage's metadata and information used to render the page properly.
 
-meta
+meta<br>
 This is a void element (self closing) and does not require a meta tag. It is used to define the webpage's metadata, including character set, page description, keywords, author, and viewport settings. It is used by the browser, search engines, and other web services.
 
-charset="UTF-8"
+charset="UTF-8"<br>
 The charset attribute specifies the character (text) encoding for the HTML document. The "UTF-8" character set is encouraged by the HTML5 specification and covers almost every character and symbol used throughout the world.
 
-title
+title<br>
 The title element is used to provide webpages with the title that you see on your browser's tab! Without it, the title would default to the page's file name (in this case, "index.html").
 
-body
+body<br>
 The body element is used as a container for all of the webpage's content - text, images, links, videos, etc.
