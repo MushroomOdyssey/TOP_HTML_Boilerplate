@@ -12,7 +12,7 @@ Now's the exciting part. If I take a PB&Honey sandwich and squeeze it between tw
 
 That’s how HTML works. You can stack and nest various elements within others and still create a single, valid document.
 
-!DOCTYPE html
+!DOCTYPE html<br>
 Defines the version of HTML that the browser should render. For HTML5, the version is defined simply by using "html".
 
 html<br>
